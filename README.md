@@ -1,4 +1,4 @@
-# pdshw3
+# KMeans implementation with Python
 Homework assignment  for Programming for Data Science Course.
 
 Implementing KMeans algorithm using numpy, scipy and pandas.
